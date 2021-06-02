@@ -4,7 +4,7 @@ namespace CodeWars
 {
     public class Kata
     {
-// Question:
+//Question: CreatePhoneNumber
 //Description:
 //Write a function that accepts an array of 10 integers(between 0 and 9), that returns a string of those numbers in the form of a phone number.
 
@@ -13,6 +13,7 @@ namespace CodeWars
 //The returned format must be correct in order to complete this challenge.
 //Don't forget the space after the closing parentheses
 
+//Answers:
         public static string CreatePhoneNumber_Mine(int[] digits) 
         { 
             return $"({digits[0]}{digits[1]}{digits[2]}) {digits[3]}{digits[4]}{digits[5]}-{digits[6]}{digits[7]}{digits[8]}{digits[9]}";
