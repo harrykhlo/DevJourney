@@ -1,0 +1,13 @@
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.exe
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.deps.json
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.json
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.dev.json
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.dll
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.pdb
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csprojAssemblyReference.cache
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfoInputs.cache
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfo.cs
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.dll
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.pdb
+C:\Users\harry\Documents\SoftwareDeveloper\DevJourney\CodingExercises\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.genruntimeconfig.cache
